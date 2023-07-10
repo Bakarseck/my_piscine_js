@@ -3,7 +3,7 @@
 + [x] declarations
 + [x] mutability
 + [x] more-or-less
-+ [  ] returns
++ [x] returns
 + [  ] last-first-kiss
 + [  ] concat-str
 + [  ] change
