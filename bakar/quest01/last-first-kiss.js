@@ -12,4 +12,3 @@ function kiss(arr) {
     new_arr.push(last(arr))
     return new_arr
 }
-console.log(kiss("bakar"))
