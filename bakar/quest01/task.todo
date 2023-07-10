@@ -5,7 +5,7 @@
 + [x] more-or-less
 + [x] returns
 + [x] last-first-kiss
-+ [  ] concat-str
++ [x] concat-str
 + [  ] change
 + [  ] dog-years
 + [  ] circulars
