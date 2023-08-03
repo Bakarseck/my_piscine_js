@@ -8,12 +8,12 @@
 + [x] concat-str
 + [x] change
 + [x] dog-years
-+ [  ] circulars
-+ [  ] biggie-smalls
-+ [  ] method-man
-+ [  ] abs
-+ [  ] min-max
-+ [  ] sign
++ [x] circulars
++ [x] biggie-smalls
++ [x] method-man
++ [x] abs
++ [x] min-max
++ [x] sign
 + [  ] is
 + [  ] physics
 + [  ] collections
