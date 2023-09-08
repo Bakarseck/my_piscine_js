@@ -11,4 +11,4 @@ const samePerson = person
 person.age += 1
 person.country = 'FR'
 
-console.log(clone1, clone2)
+console.log(clone1, clone2, samePerson)
